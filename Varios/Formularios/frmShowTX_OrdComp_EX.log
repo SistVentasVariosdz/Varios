@@ -1,0 +1,35 @@
+Línea 13: la propiedad Icon de frmShowTX_OrdComp_Ex tenía una referencia a archivo no válida.
+Línea 29: la propiedad Picture de Picture1 tenía una referencia a archivo no válida.
+Línea 44: la propiedad Custom de FunctButt2 tenía un valor no válido.
+Línea 61: la propiedad Custom de FunctButt3 tenía un valor no válido.
+Línea 88: la propiedad TabPicture(0) de SSTab1 tenía una referencia a archivo no válida.
+Línea 94: la propiedad TabPicture(1) de SSTab1 tenía una referencia a archivo no válida.
+Línea 100: la propiedad TabPicture(2) de SSTab1 tenía una referencia a archivo no válida.
+Línea 204: la propiedad Column(1) de GridEX1 tenía una referencia a archivo no válida.
+Línea 205: la propiedad Column(2) de GridEX1 tenía una referencia a archivo no válida.
+Línea 207: la propiedad FormatStyle(1) de GridEX1 tenía una referencia a archivo no válida.
+Línea 208: la propiedad FormatStyle(2) de GridEX1 tenía una referencia a archivo no válida.
+Línea 209: la propiedad FormatStyle(3) de GridEX1 tenía una referencia a archivo no válida.
+Línea 210: la propiedad FormatStyle(4) de GridEX1 tenía una referencia a archivo no válida.
+Línea 211: la propiedad FormatStyle(5) de GridEX1 tenía una referencia a archivo no válida.
+Línea 212: la propiedad FormatStyle(6) de GridEX1 tenía una referencia a archivo no válida.
+Línea 214: la propiedad PrinterProperties de GridEX1 tenía una referencia a archivo no válida.
+Línea 233: la propiedad Column(1) de GridEXTela tenía una referencia a archivo no válida.
+Línea 234: la propiedad Column(2) de GridEXTela tenía una referencia a archivo no válida.
+Línea 236: la propiedad FormatStyle(1) de GridEXTela tenía una referencia a archivo no válida.
+Línea 237: la propiedad FormatStyle(2) de GridEXTela tenía una referencia a archivo no válida.
+Línea 238: la propiedad FormatStyle(3) de GridEXTela tenía una referencia a archivo no válida.
+Línea 239: la propiedad FormatStyle(4) de GridEXTela tenía una referencia a archivo no válida.
+Línea 240: la propiedad FormatStyle(5) de GridEXTela tenía una referencia a archivo no válida.
+Línea 241: la propiedad FormatStyle(6) de GridEXTela tenía una referencia a archivo no válida.
+Línea 243: la propiedad PrinterProperties de GridEXTela tenía una referencia a archivo no válida.
+Línea 262: la propiedad Column(1) de GridEXColor tenía una referencia a archivo no válida.
+Línea 263: la propiedad Column(2) de GridEXColor tenía una referencia a archivo no válida.
+Línea 265: la propiedad FormatStyle(1) de GridEXColor tenía una referencia a archivo no válida.
+Línea 266: la propiedad FormatStyle(2) de GridEXColor tenía una referencia a archivo no válida.
+Línea 267: la propiedad FormatStyle(3) de GridEXColor tenía una referencia a archivo no válida.
+Línea 268: la propiedad FormatStyle(4) de GridEXColor tenía una referencia a archivo no válida.
+Línea 269: la propiedad FormatStyle(5) de GridEXColor tenía una referencia a archivo no válida.
+Línea 270: la propiedad FormatStyle(6) de GridEXColor tenía una referencia a archivo no válida.
+Línea 272: la propiedad PrinterProperties de GridEXColor tenía una referencia a archivo no válida.
+Línea 283: la propiedad Custom de FunctButt1 tenía un valor no válido.

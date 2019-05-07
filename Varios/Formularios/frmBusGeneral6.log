@@ -1,0 +1,9 @@
+Línea 10: la propiedad Icon de frmBusGeneral6 tenía una referencia a archivo no válida.
+Línea 121: la propiedad FormatStyle(1) de DGridLista tenía una referencia a archivo no válida.
+Línea 122: la propiedad FormatStyle(2) de DGridLista tenía una referencia a archivo no válida.
+Línea 123: la propiedad FormatStyle(3) de DGridLista tenía una referencia a archivo no válida.
+Línea 124: la propiedad FormatStyle(4) de DGridLista tenía una referencia a archivo no válida.
+Línea 125: la propiedad FormatStyle(5) de DGridLista tenía una referencia a archivo no válida.
+Línea 126: la propiedad FormatStyle(6) de DGridLista tenía una referencia a archivo no válida.
+Línea 127: la propiedad FormatStyle(7) de DGridLista tenía una referencia a archivo no válida.
+Línea 129: la propiedad PrinterProperties de DGridLista tenía una referencia a archivo no válida.
