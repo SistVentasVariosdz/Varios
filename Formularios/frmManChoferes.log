@@ -1,0 +1,11 @@
+Línea 11: la propiedad Icon de frmChoferes tenía una referencia a archivo no válida.
+Línea 44: la propiedad Custom de MantFunc1 tenía un valor no válido.
+Línea 103: la propiedad Column(1) de gexTrans tenía una referencia a archivo no válida.
+Línea 104: la propiedad Column(2) de gexTrans tenía una referencia a archivo no válida.
+Línea 106: la propiedad FormatStyle(1) de gexTrans tenía una referencia a archivo no válida.
+Línea 107: la propiedad FormatStyle(2) de gexTrans tenía una referencia a archivo no válida.
+Línea 108: la propiedad FormatStyle(3) de gexTrans tenía una referencia a archivo no válida.
+Línea 109: la propiedad FormatStyle(4) de gexTrans tenía una referencia a archivo no válida.
+Línea 110: la propiedad FormatStyle(5) de gexTrans tenía una referencia a archivo no válida.
+Línea 111: la propiedad FormatStyle(6) de gexTrans tenía una referencia a archivo no válida.
+Línea 113: la propiedad PrinterProperties de gexTrans tenía una referencia a archivo no válida.
